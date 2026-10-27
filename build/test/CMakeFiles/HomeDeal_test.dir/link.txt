@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/HomeDeal_test.dir/test_main.cc.o -o HomeDeal_test  /usr/local/lib64/libdrogon.a /usr/local/lib64/libtrantor.a /usr/lib64/libssl.so /usr/lib64/libcrypto.so -lpthread -ldl /usr/lib64/libjsoncpp.so.1.9.5 /lib64/libuuid.so /usr/lib64/libbrotlidec.so /usr/lib64/libbrotlienc.so /usr/lib64/libbrotlicommon.so /usr/lib64/libz.so

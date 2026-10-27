@@ -3,7 +3,7 @@ project(HomeDeal CXX)
 
 # Custom file extension configuration
 if(NOT DEFINED DEFAULT_SOURCE_EXTENSION)
-    set(DEFAULT_SOURCE_EXTENSION "cc" CACHE STRING "Default source file extension (e.g., cc, cpp, cxx)")
+    set(DEFAULT_SOURCE_EXTENSION "cpp" CACHE STRING "Default source file extension (e.g., cc, cpp, cxx)")
 endif()
 if(NOT DEFINED DEFAULT_HEADER_EXTENSION)
     set(DEFAULT_HEADER_EXTENSION "h" CACHE STRING "Default header file extension (e.g., h, hpp, hxx)")

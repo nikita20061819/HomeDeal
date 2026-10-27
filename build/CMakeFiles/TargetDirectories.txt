@@ -1,6 +1,0 @@
-/home/nikita/Рабочий стол/Курсовая_БД/HomeDeal/build/CMakeFiles/HomeDeal.dir
-/home/nikita/Рабочий стол/Курсовая_БД/HomeDeal/build/CMakeFiles/edit_cache.dir
-/home/nikita/Рабочий стол/Курсовая_БД/HomeDeal/build/CMakeFiles/rebuild_cache.dir
-/home/nikita/Рабочий стол/Курсовая_БД/HomeDeal/build/test/CMakeFiles/HomeDeal_test.dir
-/home/nikita/Рабочий стол/Курсовая_БД/HomeDeal/build/test/CMakeFiles/edit_cache.dir
-/home/nikita/Рабочий стол/Курсовая_БД/HomeDeal/build/test/CMakeFiles/rebuild_cache.dir
